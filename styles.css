@@ -1,11 +1,11 @@
 * {
-margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #target-div {
-  min-height: 100vh;
+  min-height: 1vh;
   width: 100%;
   background: #ddd;
-  padding:1em;
+  padding: 1em;
 }
