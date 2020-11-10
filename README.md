@@ -6,7 +6,6 @@ Create issues on the link below on the parent repo if you are stuck and want to 
 
 ## Assignment
 1. Once you have cloned the repo from the command line (e.g. Git Bash), now you can open up the Assignment1 folder in your text editor (e.g. VS Code or Atom). To open the folder, click on File, Open, and navigate to where your Assignment is stored (you can use Search if you aren’t sure.) 
-1. Add a page title with an H1 tag inside of the body of the index.html page. You can use something like this but change what is inside of the tags -  &lt;h1>This is my page. &lt;/h1> 
 2. Once you open Assignment1 in your text editor, you should see several files in the sidebar, including index.html. 
 3. Open up index.html. Don’t worry about all the text in there; you will soon learn what it all means. For now,  just look for where you see  &lt;body> (around line 12)
 4. Underneath &lt;body>, insert a new line.
