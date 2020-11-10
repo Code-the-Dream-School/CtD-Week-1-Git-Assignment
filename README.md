@@ -5,12 +5,43 @@ Welcome. Assuming you are reading this you are on the right track and on your wa
 Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Please use it! It will be helpful for mentors and future students to see where common problems are. Link here: https://github.com/Code-the-Dream-School/CtD-Week-1-Git-Assignment/issues
 
 ## Assignment
+1. Once you have cloned the repo from the command line (e.g. Git Bash), now you can open up the Assignment1 folder in your text editor (e.g. VS Code or Atom). To open the folder, click on File, Open, and navigate to where your Assignment is stored (you can use Search if you aren’t sure.) 
 1. Add a page title with an H1 tag inside of the body of the index.html page. You can use something like this but change what is inside of the tags -  &lt;h1>This is my page. &lt;/h1> 
-2. Underneath that. Create a paragraph/p tag and write a message saying what you are most excited about learning at Code the Dream. Like this -  &lt;p>Write something here.&lt;/p>
-3. You just wrote your first batch of HTML! Kudos!
-4. Add all of your changes you made from your terminal based on what you learned in the 'intro to git' class.
-5. Commit your changes and write a commit message explaining what changes you made.
-6. Push your changes back to your remote branch so that we can see them. 
+2. Once you open Assignment1 in your text editor, you should see several files in the sidebar, including index.html. 
+3. Open up index.html. Don’t worry about all the text in there; you will soon learn what it all means. For now,  just look for where you see  &lt;body> (around line 12)
+4. Underneath &lt;body>, insert a new line.
+5. Add a page title with an H1 tag inside of the body of the index.html page. You can use something like this but change what is inside of the tags -
+6. &lt;h1>This is my page. &lt;/h1>
+7. Underneath that. Create a paragraph/p tag and write a message saying what you are most excited about learning at Code the Dream. Like this -
+8. &lt;p>Write something here.&lt;/p>
+9. So, when finished, it will look like this: 
+
+```<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>title</title>
+  <meta name="author" content="name">
+  <meta name="description" content="description here">
+  <meta name="keywords" content="keywords,here">
+  <link rel="stylesheet" href="styles.css" type="text/css">
+  </head>
+  <body>
+	<h1>This is my page. </h1>
+	<p>I’m so excited to be in the class so I can learn…...</p>
+  <div id="target-div"></div>
+  <script src="index.js" type="text/javascript"></script>
+  </body>
+</html>
+```
+
+
+10. You just wrote your first batch of HTML! Kudos!
+11. Don’t forget to SAVE YOUR WORK!
+12. Now, head back to the terminal (e.g. Git Bash) / your command line. Add all of your changes to Git that you made from your terminal based on what you learned in the 'intro to git' class.
+13. Commit your changes and write a commit message explaining what changes you made.
+14. Push your changes back to your remote branch so that we can see them.
 
 
 ## Additonal Instructions on how to clone/download a repo and get started (ie what you need to do to get up and running). 
