@@ -3,9 +3,17 @@
   padding: 0;
 }
 
-#target-div {
-  min-height: 1vh;
-  width: 100%;
-  background: #ddd;
-  padding: 1em;
+html {
+  height: 100%;
+  
+}
+body {
+ height: 100%;
+}
+
+
+.content {
+  background: #555;
+  color:#ddd;
+  height: 100%;
 }
